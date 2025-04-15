@@ -270,6 +270,7 @@ td {
     
     /* Indent dropdown items for better hierarchy */
     .dropdown-content a {
+        text-align: left;
         padding-left: 30px;
     }
 
